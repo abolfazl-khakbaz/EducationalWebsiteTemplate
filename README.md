@@ -1,13 +1,13 @@
 # EducationalWebsiteTemplate
 A collection of small UI/UX and animation projects built with HTML, CSS, and JavaScript: Educational Website
 
-A responsive website built with HTML, CSS, and vanilla JavaScript. Unfortunately, this website is no longer available, and it is down on behalf of the employer's financial issues.
+A responsive website built with HTML, CSS, and vanilla JavaScript. This website is written in Persian(Iranian). Unfortunately, this website is no longer available, and it is down on behalf of the employer's financial issues.
 
 ---
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live demo] (https://)
+👉 [Click here to view the live demo] (https://educational-website-2i1wdo9y9-abolfazl-khakbazs-projects.vercel.app)
 
 ---
 

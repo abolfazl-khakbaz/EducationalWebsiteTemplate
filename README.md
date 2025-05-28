@@ -7,7 +7,7 @@ A responsive website built with HTML, CSS, and vanilla JavaScript. This website 
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live demo] (https://educational-website-2i1wdo9y9-abolfazl-khakbazs-projects.vercel.app)
+👉 [Click here to view the live demo] (https://educational-website-beta-sooty.vercel.app)
 
 ---
 
